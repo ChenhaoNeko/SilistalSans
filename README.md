@@ -1,5 +1,5 @@
 # 硅晶体 | Silistal Sans
- 
+
 **本字体目前仍缺少大量常用字，且希腊文部分尚未完工。请各位站长暂时不要收录本字体。**
 
 ## 简　介
@@ -14,13 +14,13 @@
 * 而且这个项目自从 2021 年就几乎处于搁置状态。
 * 除此之外，我再也没有看见第二个多字重的 M+ 简体版（更别说更新活跃的了），它的可变版本也没有人去补。
 * 于是乎。。。
-* 我与另一位用户共同开启了这个项目（当时这个项目还没有名字），我负责做印刷字形，他负责做 GB 字形。
+* 我与另一位用户共同开启了这个项目（当时这个项目还没有名字），我负责做印刷新形，他负责做 GB 字形。
 * 然而，那位用户似乎太忙了，没时间继续做下去。
-* 所以，目前的更新，以印刷字形版为主。
+* 所以，目前的更新，以印刷新形版为主。
 
 ## 版　权
 
-* 本字体依据『SIL 开源字体许可证 1.1』授权，保留字体名称『硅晶体 / Silistal Sans』.
+* 本字体依据『SIL 开源字体许可证 1.1』授权，保留字体名称『硅晶体 / Silistal Sans』。
 
 ## 加入我们
 
@@ -28,3 +28,10 @@
 
 * QQ 1 群：980972806
 * QQ 2 群：100301826
+
+## 感　谢
+
+* **[coz-m（森下浩司）](https://github.com/coz-m)** 开源[原版日文M+](https://github.com/coz-m/MPLUS_FONTS)；
+* **[Empo Sans](https://github.com/AlloyDome/Empo-Sans)** 提供灵感；
+* **[思源黑体KR](https://github.com/ChiuMing-Neko/ChiuKongGothic)、[秋空黑体MN](https://github.com/ChiuMing-Neko/ChiuKongGothic)、[霞鹜晰黑MN](https://github.com/coz-m)、[猫啃网糖圆体](https://github.com/NightFurySL2001/TangYuan-font)** 等字体为印刷新形版提供参考字形；
+* **[Hansha2011](https://github.com/Hansha2011)、[scott0107000](https://github.com/scott0107000)** 等小伙伴为本项目提供支持。
