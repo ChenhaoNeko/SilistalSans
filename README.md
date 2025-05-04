@@ -33,5 +33,5 @@
 
 * **[coz-m（森下浩司）](https://github.com/coz-m)** 开源[原版日文M+](https://github.com/coz-m/MPLUS_FONTS)；
 * **[Empo Sans](https://github.com/AlloyDome/Empo-Sans)** 提供灵感；
-* **[思源黑体KR](https://github.com/ChiuMing-Neko/ChiuKongGothic)、[秋空黑体MN](https://github.com/ChiuMing-Neko/ChiuKongGothic)、[霞鹜晰黑MN](https://github.com/coz-m)、[猫啃网糖圆体](https://github.com/NightFurySL2001/TangYuan-font)** 等字体为印刷新形版提供参考字形；
+* **[思源黑体KR](https://github.com/adobe-fonts/source-han-sans)、[秋空黑体MN](https://github.com/ChiuMing-Neko/ChiuKongGothic)、[霞鹜晰黑MN](https://github.com/lxgw/LxgwXiHei)、[猫啃网糖圆体](https://github.com/NightFurySL2001/TangYuan-font)** 等字体为印刷新形版提供参考字形；
 * **[Hansha2011](https://github.com/Hansha2011)、[scott0107000](https://github.com/scott0107000)** 等小伙伴为本项目提供支持。
