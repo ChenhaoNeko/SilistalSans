@@ -1,7 +1,9 @@
-Copyright (c) _2024_, _ChenhaoNeko (2732578462@qq.com)_,  
-with Reserved Font Name _"Silistal Sans"_.
+Copyright (c) 2024-2025, ChenhaoUwU (2732578462@qq.com),
+with Reserved Font Name "Silistal Sans".
 
-Copyright (c) _2021_, _The M\+ FONTS Project Authors (https://github.com/coz-m/MPLUS_FONTS)_.
+Copyright (c) 2023-2025, GeorgomeFont (https://github.com/GeorgomeFont).
+
+Copyright (c) 2021, The M\+ FONTS Project Authors (https://github.com/coz-m/MPLUS_FONTS).
 
 &nbsp;
 
